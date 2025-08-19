@@ -126,9 +126,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Organisers"
-    text: "Meet our conference organising team."
-    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Organising Team"
     section: team
     people:
       - name: "Irene Gallego Romero"
