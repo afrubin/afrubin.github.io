@@ -70,9 +70,43 @@ en: &DEFAULT_EN
 
   about:
     title: "About"
-    text: "About the event."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Get all the details about this exciting event!"
     section: about
+    body: |
+      <img src="assets/img/mss26_logo.png" alt="MSS26 Logo" width="100%"/><br><br>
+      
+      On behalf of the [Atlas of Variant Effects (AVE) Alliance](https://www.varianteffect.org/)
+      and the conference organizing committee, we are delighted to welcome you to 
+      Melbourne, Australia for the 2026 Mutational Scanning Symposium (MSS26)
+      on 25th-27th March, 2026.
+
+      The MSS is a cornerstone event for the functional genomics community.
+      Since its inception in 2017, we have brought together delegates from across the globe,
+      fostering field-defining discussions and collaborations.
+
+      MSS26 will convene experts and trainees in the fields of 
+      functional genomics, protein science, precision medicine, variant interpretation, and computational genomics
+      from around the world to meet, present their work, share expertise and provide insights into the future of this field.
+
+      The event will take place at the 
+      [Aikenhead Centre for Medical Discovery (ACMD)](https://acmd.org.au/) in Melbourne, Australia.
+      ACMD is a new centre for biomedical engineering and translational research that
+      brings together multiple leading national universities and research institutes with a major
+      tertiary hospital. 
+      Its unique combination of research and industry tenants means that it is uniquely positioned to tackle
+      some of the world’s most challenging health problems,
+      and the building has been purpose-built to foster collaborative research,
+      with multiple floors set aside for industry partners and start-ups.
+      
+      ACMD is co-located at St Vincent's Hospital Melbourne, at the corner of Nicholson St and
+      Victoria Parade, with fantastic access for local attendees and visiting guests both.
+
+      The event will also include selected trainee presentations and posters, a clinically-focused
+      workshop, industry contributions and a session on the AVE Alliance.
+      MSS26 will be an in-person event, with live-streamed plenary sessions.
+
+      <br><img src="assets/img/AVE_logo.png" alt="AVE Logo" width="80%"/>
+
 
   sponsors:
     section: sponsors
