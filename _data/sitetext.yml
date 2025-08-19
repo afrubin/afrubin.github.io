@@ -108,22 +108,56 @@ en: &DEFAULT_EN
 
 
   sponsors:
+    title: "Sponsors"
+    text: "Meet our conference organising team."
+    subtext: "[Reach out to our team](#contact) to request our prospectus if you are interested in sponsoring this event."
     section: sponsors
-    max-height: 200px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+    tiers:
+      - name: "Platinum"
+        max-height: 500px
+        companies:
+          - name: "Creative Market"
+            logo: assets/img/clients/creative-market.jpg
+            url: https://www.varianteffect.org/
+          - name: "envato"
+            logo: assets/img/clients/envato.jpg
+            url: https://www.varianteffect.org/
+      - name: "Gold"
+        max-height: 300px
+        companies:
+          - name: "designmodo"
+            logo: assets/img/clients/designmodo.jpg
+            url: https://www.varianteffect.org/
+          - name: "envato"
+            logo: assets/img/clients/envato.jpg
+            url: https://www.varianteffect.org/
+      - name: "Silver"
+        max-height: 100px
+        companies:
+          - name: "designmodo"
+            logo: assets/img/clients/designmodo.jpg
+            url: https://www.varianteffect.org/
+          - name: "envato"
+            logo: assets/img/clients/envato.jpg
+            url: https://www.varianteffect.org/
+          - name: "designmodo"
+            logo: assets/img/clients/designmodo.jpg
+            url: https://www.varianteffect.org/
+          - name: "envato"
+            logo: assets/img/clients/envato.jpg
+            url: https://www.varianteffect.org/
+          - name: "designmodo"
+            logo: assets/img/clients/designmodo.jpg
+            url: https://www.varianteffect.org/
+          - name: "envato"
+            logo: assets/img/clients/envato.jpg
+            url: https://www.varianteffect.org/
+      - name: "Venue Sponsor"
+        max-height: 500px
+        companies:
+          - name: "Creative Market"
+            logo: assets/img/clients/creative-market.jpg
+            url: https://www.varianteffect.org/
 
   team:
     title: "Organising Team"
