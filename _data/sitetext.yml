@@ -70,11 +70,12 @@ en: &DEFAULT_EN
 
   about:
     title: "About"
-    text: "Get all the details about this exciting event!"
     section: about
+    header-image: assets/img/about/mss26_logo.png
+    header-image-alt: "Mutational Scanning Symposium 2026 Logo"
+    footer-image: assets/img/about/AVE_logo.png
+    footer-image-alt: "Atlas of Variant Effects Alliance Logo"
     body: |
-      <img src="assets/img/about/mss26_logo.png" alt="MSS26 Logo" width="100%"/><br><br>
-
       On behalf of the [Atlas of Variant Effects (AVE) Alliance](https://www.varianteffect.org/)
       and the conference organizing committee, we are delighted to welcome you to 
       Melbourne, Australia for the 2026 Mutational Scanning Symposium (MSS26)
@@ -104,8 +105,6 @@ en: &DEFAULT_EN
       The event will also include selected trainee presentations and posters, a clinically-focused
       workshop, industry contributions and a session on the AVE Alliance.
       MSS26 will be an in-person event, with live-streamed plenary sessions.
-
-      <br><img src="assets/img/about/AVE_logo.png" alt="AVE Logo" width="80%"/>
 
 
   sponsors:
