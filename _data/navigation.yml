@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: key-info
     - title: "Speakers"
       section: speakers
-    - title: "Timeline"
-      section: timeline
+    - title: "Sponsors"
+      section: sponsors
     - title: "Organisers"
       section: team
     - title: "Contact"
