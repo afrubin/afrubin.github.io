@@ -18,6 +18,7 @@
 
 // Custom colors
 $primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
+$hover: {{ site.data.style.hover | default: "#e5b81d" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 
