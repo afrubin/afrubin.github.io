@@ -22,20 +22,23 @@ en: &DEFAULT_EN
     section: speakers
     closebutton: "Close Bio"
 
-  # services:
-  #   title: "Services"
-  #   text: "Lorem ipsum"
-  #   section: services
-  #   list:
-  #     - title: "E-Commerce"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  #       icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-  #     - title: "Responsive Design"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  #       icon: fas fa-laptop
-  #     - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-  #       desc: "Your description here, full **Markdown** support"
-  #       icon: fab fa-markdown
+  services:
+     title: "Key Information"
+     text: "Lorem ipsum"
+     section: key-info
+     list:
+       - title: "Program"
+         desc: "Our complete conference program is coming soon. For now, please check out our amazing line up of invited speakers!"
+         icon: fas fa-microphone-lines #find more at https://fontawesome.com/icons
+         url: "#speakers"
+       - title: "Abstract Submission"
+         desc: "Abstract submissions close on Sunday 2 November, 2025. Click here to submit your abstract."
+         icon: fas fa-laptop
+         url: "https://www.varianteffect.org"
+       - title: "Hotels and Transport"
+         desc: "We have prepared a list of recommended hotels for out of town guests, as well as some tips on traveling to Melbourne for our overseas visitors."
+         icon: fas fa-suitcase
+         url: "travel"
 
   timeline:
     title: "Timeline"

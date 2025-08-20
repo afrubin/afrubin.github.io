@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       section: about
+    - title: "Key Info"
+      section: key-info
     - title: "Speakers"
       section: speakers
     - title: "Timeline"
