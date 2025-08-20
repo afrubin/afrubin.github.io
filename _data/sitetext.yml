@@ -17,14 +17,12 @@ en: &DEFAULT_EN
     buttonlink: "#registration"
 
   portfolio:
-    title: "Speakers"
-    text: "Check out our amazing lineup of invited speakers, with more announcements coming!"
+    title: "Invited Speakers"
     section: speakers
     closebutton: "Close Bio"
 
   services:
      title: "Key Information"
-     text: "Lorem ipsum"
      section: key-info
      list:
        - title: "Program"
@@ -35,7 +33,7 @@ en: &DEFAULT_EN
          desc: "Abstract submissions close on Sunday 2 November, 2025. Click here to submit your abstract."
          icon: fas fa-laptop
          url: "https://www.varianteffect.org"
-       - title: "Hotels and Transport"
+       - title: "Hotels and Travel"
          desc: "We have prepared a list of recommended hotels for out of town guests, as well as some tips on traveling to Melbourne for our overseas visitors."
          icon: fas fa-suitcase
          url: "travel"
@@ -109,8 +107,6 @@ en: &DEFAULT_EN
       
       <img src="assets/img/about/AVE_logo.png" class="img-fluid" alt="Atlas of Variant Effects Alliance Logo">
 
-
-
   sponsors:
     title: "Sponsors"
     text: "Meet our conference organising team."
@@ -166,6 +162,7 @@ en: &DEFAULT_EN
   team:
     title: "Organising Team"
     section: team
+    subtext: ""
     people:
       - name: "Irene Gallego Romero"
         role: "SVI"
@@ -215,6 +212,11 @@ en: &DEFAULT_EN
         icon: "fab fa-youtube"
       - url: https://github.com/varianteffect/varianteffect.github.io
         icon: "fab fa-github"
+
+  contact:
+    title: "Contact Us"
+    text: "Please contact one of our team members directly or use the following form."
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
