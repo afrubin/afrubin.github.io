@@ -9,4 +9,4 @@ caption:
   subtitle: Wellcome Sanger Institute
   thumbnail: assets/img/portfolio/hurles-thumb.jpg
 ---
-Matthew Hurles is Director of the Wellcome Sanger Institute and leads a research group focused on deciphering the genetic causes of severe developmental disorders, and understanding how DNA mutates as it is passed from generation to generation.
+<p class="item-body">Matthew Hurles is Director of the Wellcome Sanger Institute and leads a research group focused on deciphering the genetic causes of severe developmental disorders, and understanding how DNA mutates as it is passed from generation to generation.</p>
