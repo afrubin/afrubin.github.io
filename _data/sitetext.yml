@@ -114,50 +114,22 @@ en: &DEFAULT_EN
     section: sponsors
     tiers:
       - name: "Platinum"
-        max-height: 500px
-        companies:
-          - name: "Creative Market"
-            logo: assets/img/clients/creative-market.jpg
-            url: https://www.varianteffect.org/
-          - name: "envato"
-            logo: assets/img/clients/envato.jpg
-            url: https://www.varianteffect.org/
-      - name: "Gold"
         max-height: 300px
         companies:
-          - name: "designmodo"
-            logo: assets/img/clients/designmodo.jpg
-            url: https://www.varianteffect.org/
-          - name: "envato"
-            logo: assets/img/clients/envato.jpg
-            url: https://www.varianteffect.org/
+      - name: "Gold"
+        max-height: 150px
+        companies:
       - name: "Silver"
         max-height: 100px
         companies:
-          - name: "designmodo"
-            logo: assets/img/clients/designmodo.jpg
-            url: https://www.varianteffect.org/
-          - name: "envato"
-            logo: assets/img/clients/envato.jpg
-            url: https://www.varianteffect.org/
-          - name: "designmodo"
-            logo: assets/img/clients/designmodo.jpg
-            url: https://www.varianteffect.org/
-          - name: "envato"
-            logo: assets/img/clients/envato.jpg
-            url: https://www.varianteffect.org/
-          - name: "designmodo"
-            logo: assets/img/clients/designmodo.jpg
-            url: https://www.varianteffect.org/
-          - name: "envato"
-            logo: assets/img/clients/envato.jpg
-            url: https://www.varianteffect.org/
+          - name: "Australian Functional Genomics Network"
+            logo: assets/img/sponsors/afgn-logo-2.svg
+            url: https://www.functionalgenomics.org.au/
       - name: "Venue Sponsor"
-        max-height: 500px
+        max-height: 150px
         companies:
-          - name: "Creative Market"
-            logo: assets/img/clients/creative-market.jpg
-            url: https://www.varianteffect.org/
+          - logo: assets/img/sponsors/SVI_Logo_RGB_trimmed.jpg
+            url: https://www.svi.edu.au/
 
   team:
     title: "Organising Team"
