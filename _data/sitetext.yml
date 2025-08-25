@@ -84,6 +84,8 @@ en: &DEFAULT_EN
       Since its inception in 2017, we have brought together delegates from across the globe,
       fostering field-defining discussions and collaborations.
 
+      <img src="assets/img/about/AVE_logo.png" class="img-fluid" alt="Atlas of Variant Effects Alliance Logo">
+
       MSS26 will convene experts and trainees in the fields of 
       functional genomics, protein science, precision medicine, variant interpretation, and computational genomics
       from around the world to meet, present their work, share expertise and provide insights into the future of this field.
@@ -104,8 +106,6 @@ en: &DEFAULT_EN
       The event will also include selected trainee presentations and posters, a clinically-focused
       workshop, industry contributions and a session on the AVE Alliance.
       MSS26 will be an in-person event, with live-streamed plenary sessions.
-      
-      <img src="assets/img/about/AVE_logo.png" class="img-fluid" alt="Atlas of Variant Effects Alliance Logo">
 
   sponsors:
     title: "Sponsors"
