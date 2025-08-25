@@ -30,7 +30,7 @@ en: &DEFAULT_EN
          icon: fas fa-microphone-lines #find more at https://fontawesome.com/icons
          url: "#speakers"
        - title: "Abstract Submission"
-         desc: "Abstract submissions close on Sunday 2 November, 2025. Click here to submit your abstract."
+         desc: "Abstract submissions will open shortly along with conference registration - please check back!"
          icon: fas fa-laptop
          url: "https://www.varianteffect.org"
        - title: "Hotels and Travel"
