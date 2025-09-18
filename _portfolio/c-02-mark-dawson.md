@@ -1,7 +1,7 @@
 ---
 title: Prof Mark Dawson
 subtitle: Physician-Scientist and Associate Director of Research, Peter MacCallum Cancer Centre
-image: assets/img/portfolio/dawson-full.png
+image: assets/img/portfolio/dawson-full.jpg
 alt: Photo of Prof Mark Dawson
 
 caption:
