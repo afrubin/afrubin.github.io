@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: 25-27 March in Melbourne, Australia
     text: Mutational Scanning Symposium 2026
-    button: Registration Coming Soon
-    buttonlink: "#registration"
+    button: Click Here to Register
+    buttonlink: "https://events.humanitix.com/9th-mutational-scanning-symposium"
 
   portfolio:
     title: "Invited Speakers"
@@ -25,14 +25,18 @@ en: &DEFAULT_EN
      title: "Key Information"
      section: key-info
      list:
-       - title: "Program"
-         desc: "Our complete conference program is coming soon. For now, please check out our amazing line up of invited speakers!"
-         icon: fas fa-microphone-lines #find more at https://fontawesome.com/icons
-         url: "#speakers"
+       - title: "Conference Registration"
+         desc: "Early bird registration is now open until 2 November 2025. Click the icon above to go to the registration and ticketing site."
+         icon: fas fa-ticket
+         url: "https://events.humanitix.com/9th-mutational-scanning-symposium"
        - title: "Abstract Submission"
-         desc: "Abstract submissions will open shortly along with conference registration - please check back!"
-         icon: fas fa-laptop
-         url: "https://www.varianteffect.org"
+         desc: "Abstract submissions are now open and will close on 2 November 2025. Click the icon above to visit the registration form."
+         icon: fas fa-arrow-up-from-bracket
+         url: "https://docs.google.com/forms/d/e/1FAIpQLSceyf0CgG1-Qth2Zpjq-1YEdbHKhe2EfAEmobodVQFCTH6fSg/viewform"
+#       - title: "Program"
+#         desc: "Our complete conference program is coming soon. For now, please check out our amazing line up of invited speakers!"
+#         icon: fas fa-microphone-lines
+#         url: "#speakers"
        - title: "Hotels and Travel"
          desc: "We have prepared a list of recommended hotels for out of town guests, as well as some tips on traveling to Melbourne for our overseas visitors."
          icon: fas fa-suitcase
