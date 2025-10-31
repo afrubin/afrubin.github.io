@@ -89,22 +89,35 @@ en: &DEFAULT_EN
     section: sponsors
     tiers:
       - name: "Platinum"
-        max-height: 300px
+        max-width: 800px
+        column-width: 12
         companies:
       - name: "Gold"
-        max-height: 150px
+        max-width: 600px
+        column-width: 12
         companies:
+          - logo: assets/img/sponsors/Ambry_logo_RGB.jpg
+            url: https://www.ambrygen.com/
       - name: "Silver"
-        max-height: 100px
+        max-width: 300px
         companies:
-          - name: "Australian Functional Genomics Network"
-            logo: assets/img/sponsors/afgn-logo-2.svg
+          - logo: assets/img/sponsors/AFGN-logo.png
             url: https://www.functionalgenomics.org.au/
+          - logo: assets/img/sponsors/bbi_logo.png
+            url: https://brotmanbaty.org/
+          - logo: assets/img/sponsors/Twist-Bioscience-Logo.png
+            url: https://www.twistbioscience.com/
+      - name: "Bronze"
+        max-width: 100px
+        companies:
       - name: "Venue Sponsor"
-        max-height: 150px
+        max-width: 300px
+        max-height: 100px
         companies:
           - logo: assets/img/sponsors/SVI_Logo_RGB_trimmed.jpg
             url: https://www.svi.edu.au/
+          - logo: assets/img/sponsors/acmd-logo-v2-tm.png
+            url: https://www.acmd.org.au/
 
   team:
     title: "Organising Team"
