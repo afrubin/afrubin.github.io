@@ -8,19 +8,21 @@
 	</div>
   </div>
   {% for tier in site.data.sitetext[site.locale].sponsors.tiers %}
+  {% if tier.companies %}
   <div class="row d-flex justify-content-center">
 	<div class="col-lg-12 text-center">
 	  <h3 class="section-heading text-uppercase">{{ tier.name }}</h3>
 	</div>
 	{% for company in tier.companies %}
-	<div class="col-sm-4 text-center">
+	<div class="col-sm-{{ tier.column-width | default: 4 }} text-center my-auto pb-4">
 		<a href="{{ company.url }}">
-			<img class="img-fluid d-block mx-auto p-1" src="{{ company.logo }}" alt="{{ company.name }}" style="max-height: {{ tier.max-height | default: "100px" }}">
+			<img class="img-fluid d-block mx-auto p-1" src="{{ company.logo }}" alt="{{ company.name }}" style="max-width: {{ tier.max-width | default: "500px" }}; max-height: {{ tier.max-height | default: "500px" }}">
 		</a>
 		<h4>{{ company.name }}</h4>
 	</div>
 	{% endfor %}
   </div>
+  {% endif %}
   {% endfor %}
   <div class="row">
 	<div class="col-lg-8 mx-auto text-center">
