@@ -26,11 +26,11 @@ en: &DEFAULT_EN
      section: key-info
      list:
        - title: "Conference Registration"
-         desc: "Early bird registration is now open until 2 November 2025. Click the icon above to go to the registration and ticketing site."
+         desc: "Early bird registration is now open and has been extended to **1 December 2025**. Click the icon above to go to the registration and ticketing site."
          icon: fas fa-ticket
          url: "https://events.humanitix.com/9th-mutational-scanning-symposium"
        - title: "Abstract Submission"
-         desc: "Abstract submissions are now open and will close on 2 November 2025. Click the icon above to visit the registration form."
+         desc: "Abstract submissions are now open and have been extended to **1 December 2025**. Click the icon above to submit your abstract."
          icon: fas fa-arrow-up-from-bracket
          url: "https://docs.google.com/forms/d/e/1FAIpQLSceyf0CgG1-Qth2Zpjq-1YEdbHKhe2EfAEmobodVQFCTH6fSg/viewform"
 #       - title: "Program"
