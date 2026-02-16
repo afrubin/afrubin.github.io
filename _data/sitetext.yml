@@ -25,20 +25,20 @@ en: &DEFAULT_EN
      title: "Key Information"
      section: key-info
      list:
-       - title: "Conference Registration"
+       - title: "Registration"
          desc: "Registration is now open for in person and virtual delegates. Click the icon above to go to the registration and ticketing site."
          icon: fas fa-ticket
          url: "https://events.humanitix.com/9th-mutational-scanning-symposium"
-       - title: "Abstract Submission"
-         desc: "Abstract submissions are now open and have been extended to **1 December 2025**. Click the icon above to submit your abstract."
-         icon: fas fa-arrow-up-from-bracket
-         url: "https://docs.google.com/forms/d/e/1FAIpQLSceyf0CgG1-Qth2Zpjq-1YEdbHKhe2EfAEmobodVQFCTH6fSg/viewform"
-#       - title: "Program"
-#         desc: "Our complete conference program is coming soon. For now, please check out our amazing line up of invited speakers!"
-#         icon: fas fa-microphone-lines
-#         url: "#speakers"
-       - title: "Hotels and Travel"
-         desc: "We have prepared a list of recommended hotels for out of town guests, as well as some tips on traveling to Melbourne for our overseas visitors."
+       - title: "Program"
+         desc: "Our draft program is now available. Thank you to all the submitters and speakers for sharing their outstanding work!"
+         icon: fas fa-microphone-lines
+         url: "assets/pdf/2026-02-16_DRAFT_MSS26_Program.pdf"
+       - title: "Workshop"
+         desc: "Click here for more details and registration for the Clinical Application Workshop following the main program."
+         icon: fas fa-book-medical
+         url: "workshop"
+       - title: "Travel"
+         desc: "We have prepared a list of recommended hotels for out of town guests, as well as some tips for our overseas visitors."
          icon: fas fa-suitcase
          url: "travel"
 
