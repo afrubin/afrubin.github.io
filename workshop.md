@@ -29,9 +29,9 @@ The Clinical Application Workshop will be held at the main conference venue in t
 
 **REGISTRATION**
 
-Registration is open to any MSS26 delegates.
+Please [follow this link to register for the Clinical Application Workshop](https://docs.google.com/forms/d/e/1FAIpQLSdTZr_VX8mbCIwrrkVLAT_59iBkvaAEPsQPeb_HPNK0_Iq2AA/viewform?usp=sharing&ouid=111504346029650222297).
 
-Please follow [this link](https://docs.google.com/forms/d/e/1FAIpQLSdTZr_VX8mbCIwrrkVLAT_59iBkvaAEPsQPeb_HPNK0_Iq2AA/viewform?usp=sharing&ouid=111504346029650222297) to register.
+Workshop registration is free for any MSS26 delegates. You can [register for the Mutational Scanning Symposium here](https://events.humanitix.com/9th-mutational-scanning-symposium).
 
 
 **WORKSHOP PRESENTERS**
