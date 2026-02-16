@@ -2,6 +2,8 @@
 source "https://rubygems.org"
 
 gem "jekyll-remote-theme"
+gem "logger"
+gem "bigdecimal"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
