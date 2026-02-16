@@ -107,12 +107,16 @@ en: &DEFAULT_EN
             url: https://brotmanbaty.org/
           - logo: assets/img/sponsors/Twist-Bioscience-Logo.png
             url: https://www.twistbioscience.com/
+          - logo: assets/img/sponsors/CCGCM_wordmark.png
+            url: https://genomic-cancer-medicine.unimelb.edu.au
       - name: "Bronze"
-        max-width: 100px
+        max-width: 150px
         companies:
+         - logo: assets/img/sponsors/wehi_logo.webp
+           url: https://www.wehi.edu.au
       - name: "Venue Sponsor"
-        max-width: 300px
-        max-height: 100px
+        max-width: 400px
+        max-height: 120px
         companies:
           - logo: assets/img/sponsors/SVI_Logo_RGB_trimmed.jpg
             url: https://www.svi.edu.au/
