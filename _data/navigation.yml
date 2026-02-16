@@ -15,10 +15,10 @@ en: &DEFAULT_EN
       section: about
     - title: "Key Info"
       section: key-info
-    - title: "Speakers"
-      section: speakers
     - title: "Sponsors"
       section: sponsors
+    - title: "Speakers"
+      section: speakers
     - title: "Organisers"
       section: team
     - title: "Contact"
