@@ -93,11 +93,14 @@ en: &DEFAULT_EN
         column-width: 12
         companies:
       - name: "Gold"
-        max-width: 600px
-        column-width: 12
+        max-width: 500px
+        max-height: 120px
+        column-width: 6
         companies:
           - logo: assets/img/sponsors/Ambry_logo_RGB.jpg
             url: https://www.ambrygen.com/
+          - logo: assets/img/sponsors/Illumina_logo.png
+            url: https://www.illumina.com/
       - name: "Silver"
         max-width: 300px
         companies:
