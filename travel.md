@@ -20,6 +20,10 @@ Here are a few options we recommend you consider when planning your visit:
 * [Lanson Place Parliament Gardens](https://lansonplace.com/parliamentgardens/)
 * [Park Hyatt Melbourne](https://www.hyatt.com/en-US/hotel/australia/park-hyatt-melbourne/melph)
 
+**EATING AND DRINKING**
+
+Some recommendations for places to eat and drink near the conference venue are available [here](https://maps.app.goo.gl/KFjHjvPq6dbfDGry5). This is not an exhaustive list, but it does contain places at many different price points and dietary requirements, so there should hopefuly be something in there to suit everyone!
+
 **TRAVELING TO MELBOURNE**
 
 Melbourne may be quite far away, but is easy to get to from most places in the world
