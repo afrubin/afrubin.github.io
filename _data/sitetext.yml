@@ -26,15 +26,15 @@ en: &DEFAULT_EN
      section: key-info
      list:
        - title: "Registration"
-         desc: "Registration is now open for in person and virtual delegates. Click the icon above to go to the registration and ticketing site."
+         desc: "Registration is closed for in person delegates but still **available for virtual attendees**. Click the icon above to go to the registration and ticketing site."
          icon: fas fa-ticket
          url: "https://events.humanitix.com/9th-mutational-scanning-symposium"
        - title: "Program"
-         desc: "Our draft program is now available. Thank you to all the submitters and speakers for sharing their outstanding work!"
+         desc: "Our [**conference program**](assets/pdf/MSS26_Program.pdf) is now available. You can also download the [**program booklet**](assets/pdf/MSS26_Booklet.pdf) containing poster and presentation abstracts."
          icon: fas fa-microphone-lines
          url: "assets/pdf/MSS26_Program.pdf"
        - title: "Workshop"
-         desc: "Click here for more details and registration for the Clinical Application Workshop following the main program."
+         desc: "Click here for more details on the **Clinical Application Workshop** following the main program."
          icon: fas fa-book-medical
          url: "workshop"
        - title: "Travel"
