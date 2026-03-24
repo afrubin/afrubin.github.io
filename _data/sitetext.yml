@@ -30,7 +30,7 @@ en: &DEFAULT_EN
          icon: fas fa-ticket
          url: "https://events.humanitix.com/9th-mutational-scanning-symposium"
        - title: "Program"
-         desc: "Our [**conference program**](assets/pdf/MSS26_Program.pdf) is now available. You can also download the [**program booklet**](assets/pdf/MSS26_Booklet.pdf) containing poster and presentation abstracts."
+         desc: "Our [**conference program**](assets/pdf/MSS26_Program.pdf) is now available. You can also download the [**program booklet**](assets/pdf/MSS26_Booklet.pdf) containing poster and presentation abstracts or [**check out some posters**](posters/posters.html)."
          icon: fas fa-microphone-lines
          url: "assets/pdf/MSS26_Program.pdf"
        - title: "Workshop"
